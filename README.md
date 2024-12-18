@@ -67,6 +67,7 @@ Baixe o código inicial e percorra o arquivo. Isso fornecerá mais detalhes sobr
 
 - URL: [Neste link você vai ver minha solução para este desafio](https://github.com/AndersonF-Dev/faq-accordion-main)
 
+ [Voltar para o índice](#Índice)
 
 ## Interactive rating component
 
@@ -84,3 +85,39 @@ Seus usuários devem ser capazes de:
 - Consulte os estados de foco e foco para todos os elementos interativos na página
 
 Baixe o projeto e percorra o arquivo. Isso fornecerá mais detalhes sobre o projeto e ajudará você a configurar.README.md
+
+🗃Ativos fornecidos
+
+
+❌Acesso ao arquivo de design do Figma
+
+✅Arquivos de design JPEG para layouts móveis e de desktop.
+
+✅Guia de estilo para fontes, cores, etc.
+
+✅Ativos de imagem otimizados.
+
+✅README para ajudá-lo a começar.
+
+✅Arquivo HTML com conteúdo pré-escrito.
+
+
+### Links
+
+- URL: [Link para você começar a codar o seu projeto](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+
+Design de desktop
+![](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uvyyaf5ua06symjnjpe1.jpg)
+
+Estados ativos
+
+![](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/dxlexkukqlr5tzabw1nt.jpg)
+
+Estado enviado
+
+![](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/dxej12acsuw6xifsu4mf.jpg)
+
+
+- URL: [Neste link você vai ver minha solução para este desafio](https://github.com/AndersonF-Dev/interactive-rating-component-main)
+
+ [Voltar para o índice](#Índice)
