@@ -20,6 +20,7 @@ Portanto, sair da teoria e começar a codar projetos reais é o melhor caminho p
 Lista de projetos que já fiz
 
 - [FAQ accordion](#FAQ-accordion)
+- [Interactive rating component](#Interactive-rating-component)
 
 
 ## FAQ accordion
@@ -64,4 +65,22 @@ Baixe o código inicial e percorra o arquivo. Isso fornecerá mais detalhes sobr
 
 ![](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/uveesnn1vtwqqyeustqm.jpg)
 
-- URL: [Neste link você vai ver minha solução para este desafio](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
+- URL: [Neste link você vai ver minha solução para este desafio](https://github.com/AndersonF-Dev/faq-accordion-main)
+
+
+## Interactive rating component
+
+Este é um projeto pequeno e agradável para praticar o tratamento de interações do usuário e atualizar o DOM. Perfeito para quem aprendeu o básico de JavaScript!
+
+# Descrição do desafio
+Seu desafio é construir esse componente de classificação interativo e deixá-lo o mais próximo possível do design.
+
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
+
+Seus usuários devem ser capazes de:
+
+- Selecione e envie uma classificação numérica
+- Veja o estado do cartão "Obrigado" depois de enviar uma classificação
+- Consulte os estados de foco e foco para todos os elementos interativos na página
+
+Baixe o projeto e percorra o arquivo. Isso fornecerá mais detalhes sobre o projeto e ajudará você a configurar.README.md
